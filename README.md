@@ -1,0 +1,2 @@
+# -End-to-End-Machine-Learning-Project-with-Deployment-Student-Performance-Predictor
+End-to-end machine learning system, from data ingestion &amp; preprocessing to model training, hyperparameter tuning, evaluation &amp; production deployment using Flask and Azure App Service. It emphasizes practical ML engg. workflows, scalable preprocessing, and CI/CD practices built to understand how real-world ML systems are designed and delivered.
