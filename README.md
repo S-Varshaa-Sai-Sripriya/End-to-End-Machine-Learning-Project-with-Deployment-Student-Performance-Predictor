@@ -35,17 +35,6 @@ graph TD
     D --> E[Flask API]
     E --> F[Azure Deployment]
 ```
-🚀 Deployment Instructions
-
-🔬 Local Testing
-
-git clone https://github.com/S-Varshaa-Sai-Sripriya/End-to-End-Machine-Learning-Project-with-Deployment.git
-
-cd End-to-End-Machine-Learning-Project-with-Deployment
-
-pip install -r requirements.txt
-
-python app.py  # Starts Flask server at http://localhost:5000
 
 ☁️ Azure Deployment
 
