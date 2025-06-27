@@ -46,9 +46,9 @@ graph TD
 
     Push to main branch to auto-deploy via GitHub Actions
 
-    ![Image](https://github.com/user-attachments/assets/042914df-edc3-49c9-9228-4c658fae1c17)
+![Image](https://github.com/user-attachments/assets/042914df-edc3-49c9-9228-4c658fae1c17)
 
-    ![Image](https://github.com/user-attachments/assets/737ab072-cb73-4967-89b1-703b8af500f9)
+![Image](https://github.com/user-attachments/assets/737ab072-cb73-4967-89b1-703b8af500f9)
 
 ## 📊 Model Performance
 
