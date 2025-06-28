@@ -59,4 +59,7 @@ graph TD
 | Random Forest | 0.89          |
 
 
-NOTE: Complete code is in a different private repository.
+## 🔐 Repository Info
+
+> This repository is a **public demo** showcasing insights, sample outputs, and visualizations from the Personal Finance Tracker project.  
+> The **full source code is maintained in a private repository**
