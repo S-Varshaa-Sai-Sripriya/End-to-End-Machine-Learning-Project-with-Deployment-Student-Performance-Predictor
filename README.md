@@ -59,4 +59,4 @@ graph TD
 | Random Forest | 0.89          |
 
 
-NOTE: Complete Code is in a different private repository.
+NOTE: Complete code is in a different private repository.
