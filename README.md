@@ -24,7 +24,6 @@ A production-grade machine learning pipeline for predicting student math scores 
 
 ---
 
-NOTE: Complete Code is in a different private repository.
 
 ## 📁 Pipeline Architecture
 
@@ -58,3 +57,6 @@ graph TD
 | XGBoost       | 0.92          |
 | CatBoost      | 0.91          |
 | Random Forest | 0.89          |
+
+
+NOTE: Complete Code is in a different private repository.
