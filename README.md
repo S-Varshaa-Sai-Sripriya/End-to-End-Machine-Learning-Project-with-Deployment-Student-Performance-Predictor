@@ -1,6 +1,9 @@
 # 🎯 End-to-End Machine Learning Project with Deployment
 
 A production-grade machine learning pipeline for predicting student math scores based on demographic and academic features. The entire workflow includes automated data ingestion, preprocessing, model training, evaluation, and deployment using Flask and Azure App Service.
+
+![E2E](https://github.com/user-attachments/assets/94e19fa6-c440-4de8-bbf0-423958b18ae1)
+
 ---
 
 ## ✨ Key Features
