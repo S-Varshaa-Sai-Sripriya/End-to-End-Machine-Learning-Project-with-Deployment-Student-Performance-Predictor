@@ -2,6 +2,8 @@
 
 A production-grade machine learning pipeline for predicting student math scores based on demographic and academic features. The entire workflow includes automated data ingestion, preprocessing, model training, evaluation, and deployment using Flask and Azure App Service.
 
+![Untitled design (2)](https://github.com/user-attachments/assets/6598e99d-3fac-4699-9145-1d23b87c3835)
+
 ---
 
 ## ✨ Key Features
