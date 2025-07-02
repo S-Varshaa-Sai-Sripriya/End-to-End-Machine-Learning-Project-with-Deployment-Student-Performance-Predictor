@@ -61,7 +61,7 @@ graph TD
 | CatBoost      | 0.91          |
 | Random Forest | 0.89          |
 
-
+> 📚 This project is a learning-based implementation
 ## 🔐 Repository Info
 
 > This repository is a **public demo** showcasing insights, sample outputs, and visualizations from the Personal Finance Tracker project.  
